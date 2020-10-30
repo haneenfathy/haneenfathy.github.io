@@ -120,9 +120,9 @@ a {
   
   text-decoration: none;
   color: white;
-  -webkit-text-stroke: 2px #685369;
+/*  -webkit-text-stroke: 2px #685369;*/
   text-align: center;
-  font-size: 2.5em;
+  font-size: 2em;
 }
 
 #blog{
